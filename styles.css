@@ -1,0 +1,47 @@
+a.nav-link {
+	color: white
+}
+
+.img-thumbnail {
+	margin-bottom: 30px;
+}
+
+.navbar-expand-lg {
+	background: #2c3e50;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+body {
+	height: 100vh;
+}
+
+.jumbo-gallery {
+	margin-top: 60px;
+}
+
+.heroimg {
+	background-image: url("img/MB-A-cover.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: grid;
+	place-items: center;
+}
+
+.herojumbo {
+	max-width: 500px;
+	margin: 0 auto;
+	margin-left: 2em;
+}
+
+.jumbotron {
+	background: none;
+}
+
+.card {
+	border-radius: 0px;
+	text-align: center;
+}
